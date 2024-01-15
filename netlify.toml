@@ -1,2 +1,3 @@
 [build]
-publish = "." # This assumes your HTML file is in the root directory
+
+publish = "."
